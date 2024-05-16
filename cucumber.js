@@ -1,4 +1,8 @@
+const path = require("path");
+
 module.exports = {
-    default: `--format-options '{"snippetInterface": "synchronous"}'`
+    default: {
+        format: [path.resolve(__dirname, "reporter.js")],
+    },
 }
   
