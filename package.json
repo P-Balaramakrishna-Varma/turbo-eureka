@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@cucumber/cucumber": "^10.7.0",
+    "@playwright/test": "^1.44.0",
+    "i": "^0.3.7",
+    "npm": "^10.8.0",
+    "playwright": "^1.44.0"
+  },
+  "name": "bdd-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
