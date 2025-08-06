@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@cucumber/cucumber": "^10.7.0",
+    "@cucumber/cucumber": "^12.1.0",
     "@playwright/test": "^1.44.0",
     "allure-commandline": "^2.29.0",
     "allure-cucumberjs": "^2.15.1",
