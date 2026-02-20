@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "@cucumber/cucumber": "^10.7.0",
+    "@cucumber/cucumber": "^12.6.0",
     "@playwright/test": "^1.44.0",
     "allure-commandline": "^2.29.0",
-    "allure-cucumberjs": "^2.15.1",
+    "allure-cucumberjs": "^3.4.5",
     "i": "^0.3.7",
-    "npm": "^10.8.0",
+    "npm": "^11.10.1",
     "playwright": "^1.44.0"
   },
   "name": "bdd-play",
